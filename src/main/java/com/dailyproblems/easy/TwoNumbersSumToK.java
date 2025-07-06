@@ -46,7 +46,6 @@
 
 package com.dailyproblems.easy;
 
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -123,7 +122,6 @@ public class TwoNumbersSumToK {
         if (nums == null || nums.length < 2) {
             return false;
         }
-        Collections.singletonList(nums).subList(k, k)
         
         // Create a copy and sort it
         int[] sortedNums = nums.clone();
