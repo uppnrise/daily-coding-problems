@@ -77,16 +77,16 @@ public class ProblemName {
 ### Problems Solved by Difficulty
 - **Easy:** 2 problems (TwoSum, TwoNumbersSumToK)
 - **Medium:** 1 problem (BinaryTreeMaxDepth)
-- **Hard:** 2 problems (RegularExpressionMatching, ProductOfArrayExceptSelf)
+- **Hard:** 3 problems (RegularExpressionMatching, ProductOfArrayExceptSelf, SingleNumberII)
 
-**Total:** 5 problems solved
+**Total:** 6 problems solved
 
 ### Recent Problems
+- **July 7, 2025**: Single Number II - Google Interview (Hard)
 - **July 6, 2025**: Product of Array Except Self - Uber Interview (Hard)
 - **June 30, 2025**: Two Numbers Sum to K - Google Interview (Easy)
 - **June 30, 2025**: Regular Expression Matching (Hard)
-- **June 30, 2025**: Binary Tree Maximum Depth (Medium)  
-- **June 30, 2025**: Two Sum (Easy)
+- **June 30, 2025**: Binary Tree Maximum Depth (Medium)
 
 ## 🔄 Daily Commitment
 
